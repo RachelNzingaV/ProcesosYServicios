@@ -8,22 +8,18 @@ public class ClienteCalculadora {
 
     public static void main(String[] args) {
         try (Socket socket = new Socket("localhost", 5000);
-             PrintWriter salida = new PrintWriter(socket.getOutputStream(), true); // autoflush activado
+             PrintWriter salida = new PrintWriter(socket.getOutputStream(), true);
              BufferedReader entrada = new BufferedReader(new InputStreamReader(socket.getInputStream()))) {
-            while (true){
 
-            }
-            // Envía  los numeros
+
             salida.println("5");
             salida.println("3");
 
-            // Imprime el  resultado
             String respuesta = entrada.readLine();
-            System.out.println( "Resultado recibido:" + respuesta);
+            System.out.println("Resultado recibido: " + respuesta);
 
         } catch (IOException e) {
             System.err.println("Error de conexión: " + e.getMessage());
         }
     }
-
 }
