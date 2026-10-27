@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a277b8c-a8ce-4b25-affb-d09910cee68c" name="Changes" comment="Ejercicios">
-      <change afterPath="$PROJECT_DIR$/src/PaqueteEntregas2/ClienteUDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PaqueteEntregas2/ServidorUDP.java" afterDir="false" />
-    </list>
+    <list default="true" id="0a277b8c-a8ce-4b25-affb-d09910cee68c" name="Changes" comment="Ejercicios" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,35 +49,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Cliente.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClienteAdivina.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClienteCalculadora.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClienteExcep.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClienteMayus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClienteRobusto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Servidor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ServidorAdivina.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ServidorCalculadora.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ServidorExcep.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ServidorMayus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ServidorRobusto.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/NzingaValverdeRachel/IdeaProjects/Servidor PSP/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Cliente.executor": "Run",
+    "Application.ClienteAdivina.executor": "Run",
+    "Application.ClienteCalculadora.executor": "Run",
+    "Application.ClienteExcep.executor": "Run",
+    "Application.ClienteMayus.executor": "Run",
+    "Application.ClienteRobusto.executor": "Run",
+    "Application.Servidor.executor": "Run",
+    "Application.ServidorAdivina.executor": "Run",
+    "Application.ServidorCalculadora.executor": "Run",
+    "Application.ServidorExcep.executor": "Run",
+    "Application.ServidorMayus.executor": "Run",
+    "Application.ServidorRobusto.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/NzingaValverdeRachel/IdeaProjects/Servidor PSP/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.ClienteMayus">
     <configuration name="ClienteMayus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PaqueteEntregas2.ClienteMayus" />
